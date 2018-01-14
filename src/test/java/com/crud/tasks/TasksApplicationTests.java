@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-=======
-/*
->>>>>>> b3582f926a26477e13d9f44ca57ea3bde264e8ff
 package com.crud.tasks;
 
 import org.junit.Test;
@@ -19,8 +15,3 @@ public class TasksApplicationTests {
 	}
 
 }
-<<<<<<< HEAD
-
-=======
-*/
->>>>>>> b3582f926a26477e13d9f44ca57ea3bde264e8ff
