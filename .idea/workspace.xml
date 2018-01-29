@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bb0aaba-51e2-49b4-bddc-1af38cd9db0d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_crud___michal_kalas_project_master_0_0_1_SNAPSHOT_war.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_crud___michal_kalas_project_master_0_0_1_SNAPSHOT_war__exploded_.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_44.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/michal-kalas-project-master_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/michal-kalas-project-master_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/michal-kalas-project-master_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/michal-kalas-project-master_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crud/tasks/TasksApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/crud/tasks/TasksApplication.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -609,7 +599,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="790" />
@@ -930,15 +920,15 @@
       <workItem from="1517220803461" duration="1141000" />
       <workItem from="1517241991235" duration="107000" />
       <workItem from="1517242146100" duration="1439000" />
-      <workItem from="1517245287348" duration="1694000" />
+      <workItem from="1517245287348" duration="2125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30829000" />
+    <option name="totallyTimeSpent" value="31260000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="790" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="802" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
@@ -959,7 +949,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3189415" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3259053" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32054794" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
