@@ -38,13 +38,14 @@ public class TrelloClient {
                 + trelloConfig.getTrelloUsername() + "/boards")
                 .queryParam("key", trelloConfig.getTrelloAppKey())
                 .queryParam("token", trelloConfig.getTrelloToken())
-                .queryParam("lists", "all")
-                .queryParam("fields", "name,id").build().encode().toUri();
+                .queryParam("fields", "name,id")
+                .queryParam("lists", "all").build().encode().toUri();
     }
 
     public List<TrelloBoardDto> getTrelloBoards() {
 
         URI url = getUrl();
+        System.out.println(url);
 
         try {
             TrelloBoardDto[] boardsResponse = restTemplate.getForObject(url, TrelloBoardDto[].class);
@@ -65,6 +66,8 @@ public class TrelloClient {
                 .queryParam("desc", trelloCardDto.getDescription())
                 .queryParam("pos", trelloCardDto.getPos())
                 .queryParam("idList", trelloCardDto.getListId()).build().encode().toUri();
+
+        System.out.println(url);
 
         return restTemplate.postForObject(url, null, CreatedTrelloCard.class);
     }
