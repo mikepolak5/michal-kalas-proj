@@ -13,6 +13,8 @@ public class EmailScheduler {
 
     private static final String SUBJECT = "Tasks: Once a day email";
 
+    private String singleTask;
+
     @Autowired
     private SimpleEmailService simpleEmailService;
 
@@ -22,13 +24,14 @@ public class EmailScheduler {
     @Autowired
     private AdminConfig adminConfig;
 
-    @Scheduled(fixedDelayString = "10000")
+    @Scheduled(fixedDelayString = "0 0 10 * * *")
     public void sendInformationEmail() {
         long size = taskRepository.count();
         Mail mail = new Mail(
                 adminConfig.getAdminMail(),
                 SUBJECT,
                 "Currently in database you got: " + size + " tasks");
+        singleTask = size > 1 ? "tasks" : "task";
         simpleEmailService.send(mail);
     }
 }
