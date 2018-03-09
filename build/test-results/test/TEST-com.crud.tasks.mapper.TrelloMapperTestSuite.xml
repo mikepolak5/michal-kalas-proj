@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crud.tasks.mapper.TrelloMapperTestSuite" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-03-06T21:49:33" hostname="macbook-air.home" time="0.05">
+  <properties/>
+  <testcase name="mapToBoardsDtoTest" classname="com.crud.tasks.mapper.TrelloMapperTestSuite" time="0.039"/>
+  <testcase name="mapToCardTest" classname="com.crud.tasks.mapper.TrelloMapperTestSuite" time="0.001"/>
+  <testcase name="mapToBoardsTest" classname="com.crud.tasks.mapper.TrelloMapperTestSuite" time="0.002"/>
+  <testcase name="mapToListTest" classname="com.crud.tasks.mapper.TrelloMapperTestSuite" time="0.0"/>
+  <testcase name="mapToListDtoTest" classname="com.crud.tasks.mapper.TrelloMapperTestSuite" time="0.0"/>
+  <testcase name="mapToCardDtoTest" classname="com.crud.tasks.mapper.TrelloMapperTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

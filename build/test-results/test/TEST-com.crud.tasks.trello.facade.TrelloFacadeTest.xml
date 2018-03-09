@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crud.tasks.trello.facade.TrelloFacadeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-06T21:49:44" hostname="macbook-air.home" time="0.005">
+  <properties/>
+  <testcase name="shouldFetchTrelloBoards" classname="com.crud.tasks.trello.facade.TrelloFacadeTest" time="0.003"/>
+  <testcase name="shouldFetchEmptyList" classname="com.crud.tasks.trello.facade.TrelloFacadeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
